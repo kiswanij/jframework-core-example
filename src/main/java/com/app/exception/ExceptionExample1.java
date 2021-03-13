@@ -1,10 +1,10 @@
-package com.app;
+package com.app.exception;
 
 import com.jk.util.JK;
 
 public class ExceptionExample1 {
 	public static void main(String[] args) {
-		//Throw nullpointer exception and handle with default handler, which log the error then through runtime exception
+		//Throw null pointer exception and handle with default handler, which log the error then through runtime exception
 		try {
 			String name = null;
 			name.length();

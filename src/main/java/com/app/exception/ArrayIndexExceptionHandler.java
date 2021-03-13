@@ -1,4 +1,4 @@
-package com.app;
+package com.app.exception;
 
 import javax.swing.JOptionPane;
 

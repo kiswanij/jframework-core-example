@@ -46,7 +46,7 @@
 	<logger name="com.mchange" level="info" />
 	<logger name="org.omnifaces" level="info" />
 
-	<root level="warn">
+	<root level="trace">
 		<appender-ref ref="CONSOLE" />
 		<appender-ref ref="FILE" />
 	</root>
