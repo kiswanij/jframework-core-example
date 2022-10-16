@@ -1,1 +1,1 @@
-# smart-cloud-util
+# jk-framework-util
