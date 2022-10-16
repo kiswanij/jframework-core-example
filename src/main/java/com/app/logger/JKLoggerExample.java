@@ -1,7 +1,7 @@
 package com.app.logger;
 
-import com.jk.util.logging.JKLogger;
-import com.jk.util.logging.JKLoggerFactory;
+import com.jk.core.logging.JKLogger;
+import com.jk.core.logging.JKLoggerFactory;
 
 public class JKLoggerExample {
 	public static void main(String[] args) {

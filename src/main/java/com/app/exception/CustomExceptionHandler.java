@@ -2,8 +2,8 @@ package com.app.exception;
 
 import javax.swing.JOptionPane;
 
-import com.jk.util.exceptions.handler.ExceptionHandler;
-import com.jk.util.exceptions.handler.JKExceptionHandler;
+import com.jk.core.exceptions.handler.ExceptionHandler;
+import com.jk.core.exceptions.handler.JKExceptionHandler;
 
 @ExceptionHandler
 public class CustomExceptionHandler implements JKExceptionHandler<ArrayIndexOutOfBoundsException> {

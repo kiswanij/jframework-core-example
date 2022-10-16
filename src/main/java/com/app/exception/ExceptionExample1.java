@@ -1,6 +1,6 @@
 package com.app.exception;
 
-import com.jk.util.JK;
+import com.jk.core.util.JK;
 
 public class ExceptionExample1 {
 	public static void main(String[] args) {

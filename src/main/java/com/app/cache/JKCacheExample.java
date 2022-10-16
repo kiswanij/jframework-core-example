@@ -1,8 +1,8 @@
 package com.app.cache;
 
-import com.jk.util.JK;
-import com.jk.util.cache.JKCacheFactory;
-import com.jk.util.cache.JKCacheManager;
+import com.jk.core.cache.JKCacheFactory;
+import com.jk.core.cache.JKCacheManager;
+import com.jk.core.util.JK;
 
 public class JKCacheExample {
 	public static void main(String[] args) {
