@@ -28,7 +28,7 @@
 	</appender>
 
 	<!-- Levels are: TRACE, DEBUG, INFO, WARN, info, ALL or OFF -->
-	<logger name="com.jk" level="info" />
+	<logger name="com.jk" level="debug" />
 
 	<logger name="com.jk.util.exceptions" level="debug" />
 	<logger name="org.springframework" level="info" />
