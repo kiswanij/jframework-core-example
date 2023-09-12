@@ -1,8 +1,8 @@
-# JKFramework-Core Examples
+# JFramework-Core Examples
 
 _Last updated: 2022-11-26_
 
-This repository contains a _JKFramework-Core_ examples.
+This repository contains a _JFramework-Core_ examples.
 
 ## Prerequisites:
 - JDK 17+ Installed
